@@ -11,8 +11,10 @@
    * [2.Query](3.使用手册/2.Query.md)
    * [3.Tables](3.使用手册/3.Tables.md)
    * [4.Tasks](3.使用手册/4.Tasks.md)
-   * [5.Client & Nodes](3.使用手册/5.ClientsAndNodes.md)
+   * [5.Cluster Info](3.使用手册/5.Cluster Info.md)
    * [6.脚本命令](3.使用手册/6.脚本命令.md)
+   * [7.Alarm](3.使用手册/7.Alarm.md)
+   * [8.Statistics](3.使用手册/8.Statistics.md)
 * 4.设计理念
    * [1.数据采集](4.设计理念/1.数据采集.md)
 * 5.ChangeLog
