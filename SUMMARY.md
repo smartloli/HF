@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [1.介绍]
+* 1.介绍
    * [1.介绍](1.Overview/1.Overview.md)
 * 2.二进制快速安装
    * [1.环境准备](2.Install/1.Env.md)
