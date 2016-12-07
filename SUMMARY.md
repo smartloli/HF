@@ -16,6 +16,8 @@
    * [7.Alarm](3.Manuals/7.Alarm.md)
    * [8.Statistics](3.Manuals/8.Statistics.md)
    * [9.Authorized](3.Manuals/9.Authorized.md)
+   * [10.Storage](3.Manuals/10.Storage.md)
+   * [11.HBase](3.Manuals/11.HBase.md)
 * 4.设计理念
    * [1.数据采集](4.Designed/1.Collector.md)
 * 5.ChangeLog
